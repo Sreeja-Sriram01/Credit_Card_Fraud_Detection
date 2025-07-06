@@ -1,5 +1,7 @@
 # Credit_Card_Fraud_Detection Using SMOTE,XG Boost
 __________________________________________________________________________________________________________________________________________________________________________________
+![image](https://github.com/user-attachments/assets/a76dcac2-4196-446f-a196-4d4760b211d3)
+
 
 This project focuses on detecting fraudulent credit card transactions using advanced machine learning techniques. It addresses the highly imbalanced nature of fraud data by applying SMOTE (Synthetic Minority Over-sampling Technique) for balancing and XGBoost for high-performance classification.
 
