@@ -7,7 +7,7 @@ This project focuses on detecting fraudulent credit card transactions using adva
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________
 
- Techniques Used:
+ Technology Used:
 
  Packages: pandas, matplotlib, seaborn, numpy, sklearn, imblearn
 
